@@ -1,0 +1,1 @@
+from .flash_decoding_chunkllama import replace_with_chunkllama
